@@ -1,0 +1,7 @@
+name: CountReplant
+version: '${project.version}'
+main: com.rookieand.countreplant.CountReplant
+api-version: 1.16
+authors: [ RookieAND ]
+description: 마인크래프트 자동심기 횟수 지원 플러그인입니다.
+website: https://github.com/RookieAND

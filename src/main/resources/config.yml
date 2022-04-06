@@ -1,0 +1,6 @@
+countReplant:
+  option:
+    isFullyGrown: true
+    takeSeedFromCrop: true
+    takeSeedAmount : 1
+  item:
